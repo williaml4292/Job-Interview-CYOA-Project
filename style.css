@@ -19,5 +19,10 @@ h2 {
 }
 #readme {
     background-color:darkgreen;
-    color:blue;
+}
+#cyan {
+    color:cyan;
+}
+#link{
+    color:#191970;
 }
