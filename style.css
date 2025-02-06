@@ -1,0 +1,19 @@
+* {
+    background-color:grey;
+    font-size:30px;
+    margin:15px;
+    padding:10px;
+    color:#92F308;
+}
+#death {
+    color:black;
+}
+.alarm {
+    color:red;
+}
+.no-job {
+    color:yellow;
+}
+h2 {
+    color: orange;
+}
