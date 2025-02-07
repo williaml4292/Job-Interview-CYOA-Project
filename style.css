@@ -16,6 +16,10 @@
 }
 h2 {
     color: orange;
+    font-size:40px;
+    animation-name:h2;
+    animation-iteration-count:infinite;
+    animation-duration:4s;
 }
 #readme {
     background-color:darkgreen;
@@ -25,4 +29,9 @@ h2 {
 }
 #link{
     color:#191970;
+}
+@keyframes h2{
+    0% {color:orange;}
+    50% {color:yellow;}
+    100% {color:orange;}
 }
