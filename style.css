@@ -51,8 +51,7 @@ h2 {
     color:red;
 }
 @keyframes grey {
-    0%{background-color:lightgrey;}
-    33%{background-color:grey;}
-    66%{background-color:darkgrey;}
-    100%{background-color:lightgrey;}
+    0%{background-color:grey;}
+    50%{background-color:darkgrey;}
+    100%{background-color:grey;}
 }
